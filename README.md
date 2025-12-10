@@ -18,3 +18,4 @@ Although the full CareerMate app includes **multiple additional features**, this
    - Candidate status updates instantly  
 
 These two functions were selected because they represent the **core employer workflow** and best demonstrate our system’s value and UI/UX design.
+**Note:** The main application code is located in the `lib/main.dart` file.
