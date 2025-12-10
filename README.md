@@ -1,16 +1,20 @@
-# careermate
+CareerMate is a **Flutter-based AI-powered job and career platform** designed to support both **employers and job seekers** in one complete ecosystem.
 
-A new Flutter project.
+This application aims to **simplify hiring, job searching, skill development, and interview preparation** using modern UI design and artificial intelligence.
 
-## Getting Started
+Although the full CareerMate app includes **multiple additional features**, this version of the project focuses on **demonstrating the two core features** required for the current presentation:
+### ⭐ Main Features Demonstrated in This Version
+1. **Job Posting Management**
+   - Post new jobs  
+   - Edit job listings  
+   - Delete job postings  
+   - View current job list  
 
-This project is a starting point for a Flutter application.
+2. **Candidate Management**
+   - View recommended applicants  
+   - Filter candidates by role & location  
+   - View detailed candidate profiles  
+   - Shortlist or reject candidates  
+   - Candidate status updates instantly  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+These two functions were selected because they represent the **core employer workflow** and best demonstrate our system’s value and UI/UX design.
